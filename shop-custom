@@ -1,0 +1,4 @@
+[vc_row][vc_column width="1/1"][vc_single_image image="3635" border_color="grey" alignment="none" img_filter="none" img_size="full"][vcex_spacing size="40px"][vc_column_text]
+<p style="text-align: center;"><span style="font-size: 32px;">Men's Collection</span>
+Standout from the crowd with exclusive new looks from our men's line.</p>
+[/vc_column_text][vcex_spacing size="25px"][vcex_woocommerce_carousel style="default" term_slug="mens" count="4" order="DESC" orderby="date" item_width="230" min_slides="1" max_slides="4" items_scroll="page" auto_play="true" timeout_duration="5000" arrows="false" thumbnail_link="post" img_crop="false" img_width="500" img_height="350" details="true"][vcex_spacing size="40px"][vc_single_image image="3641" border_color="grey" alignment="none" img_filter="none" img_size="full" img_link="http://totaltheme.wpengine.com/base/product-category/mens/"][/vc_column][/vc_row]
